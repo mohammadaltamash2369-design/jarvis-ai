@@ -1,0 +1,10 @@
+{
+  "type": "voice_pack",
+  "name": "Calm Night",
+  "voice": "",
+  "language": "en-US",
+  "speed": 0.9,
+  "pitch": 0.9,
+  "address": "boss",
+  "greeting": "Good evening {name}. Everything is quiet."
+}

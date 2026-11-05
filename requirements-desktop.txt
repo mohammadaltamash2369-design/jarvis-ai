@@ -1,0 +1,7 @@
+# Only needed to test on a PC. The phone build uses buildozer.spec instead.
+kivy>=2.3.0
+SpeechRecognition
+PyAudio
+pyttsx3
+sounddevice
+numpy

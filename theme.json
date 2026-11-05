@@ -1,0 +1,12 @@
+{
+  "name": "Sunset Photo",
+  "accent": "ffb04d",
+  "text_color": "fff4e0",
+  "bg_photo": "bg_photo.jpg",
+  "bg_fit": "cover",
+  "bg_dim": 0.2,
+  "graphics": "gold",
+  "show_border": false,
+  "title_text": "SUNSET AI",
+  "circle_opacity": 0.95
+}
